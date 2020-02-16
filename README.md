@@ -1,4 +1,4 @@
-San Francisco Ranked Choice Voting data to SankeyMATIC data
+## San Francisco Ranked Choice Voting data to SankeyMATIC data
 
 This script converts the Ranked Choice Voting XML file for a
 [San Francisco](https://sfelections.sfgov.org/) election into a
